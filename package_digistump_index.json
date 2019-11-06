@@ -467,13 +467,6 @@
               "size": "265647"
             },
             {
-              "host": "i386-apple-darwin11",
-              "url": "http://downloads.arduino.cc/tools/bossac-1.3a-arduino-i386-apple-darwin11.tar.bz2",
-              "archiveFileName": "bossac-1.3a-arduino-i386-apple-darwin11.tar.bz2",
-              "checksum": "SHA-256:40770b225753e7a52bb165e8f37e6b760364f5c5e96048168d0178945bd96ad6",
-              "size": "39475"
-            },
-            {
               "host": "x86_64-apple-darwin",
               "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/sparkfun/samd-tools/bossac/bossac-1.4.0-osx.tar.bz2",
               "archiveFileName": "bossac-1.4.0-osx.tar.bz2",
