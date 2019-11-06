@@ -420,10 +420,10 @@
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/ilg-archived/arm-none-eabi-gcc/releases/download/v8.2.1-1.7/gnu-mcu-eclipse-arm-none-eabi-gcc-8.2.1-1.7-20190524-0603-macos.tgz",
-              "archiveFileName": "gnu-mcu-eclipse-arm-none-eabi-gcc-8.2.1-1.7-20190524-0603-macos.tgz",
-              "checksum": "SHA-256:d6a162d33449282757573adab2aca8cc615d3e67a79c414dd2f6ee0c250d3a3a",
-              "size": "120421013"
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
+              "checksum": "SHA-256:3598acf21600f17a8e4a4e8e193dc422b894dc09384759b270b2ece5facb59c2",
+              "size": "52518522"
             },
             {
               "host": "x86_64-pc-linux-gnu",
@@ -472,6 +472,13 @@
               "archiveFileName": "bossac-1.3a-arduino-i386-apple-darwin11.tar.bz2",
               "checksum": "SHA-256:40770b225753e7a52bb165e8f37e6b760364f5c5e96048168d0178945bd96ad6",
               "size": "39475"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/sparkfun/samd-tools/bossac/bossac-1.4.0-osx.tar.bz2",
+              "archiveFileName": "bossac-1.4.0-osx.tar.bz2",
+              "checksum": "SHA-256:D0F225846D7BC80A74324D783CDB35C42A7F85EAD73CC016C0CC767B0AA5E81C",
+              "size": "74461"
             }
           ]
         },
