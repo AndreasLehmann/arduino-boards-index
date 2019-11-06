@@ -420,10 +420,10 @@
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
-              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
-              "checksum": "SHA-256:3598acf21600f17a8e4a4e8e193dc422b894dc09384759b270b2ece5facb59c2",
-              "size": "52518522"
+              "url": "https://github.com/ilg-archived/arm-none-eabi-gcc/releases/download/v8.2.1-1.7/gnu-mcu-eclipse-arm-none-eabi-gcc-8.2.1-1.7-20190524-0603-macos.tgz",
+              "archiveFileName": "gnu-mcu-eclipse-arm-none-eabi-gcc-8.2.1-1.7-20190524-0603-macos.tgz",
+              "checksum": "SHA-256:d6a162d33449282757573adab2aca8cc615d3e67a79c414dd2f6ee0c250d3a3a",
+              "size": "120421013"
             },
             {
               "host": "x86_64-pc-linux-gnu",
